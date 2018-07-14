@@ -1,4 +1,4 @@
-#add a name jango
+#add a name jango.G
 template = """
 From: <{from_email}>
 To: <{to_email}>
