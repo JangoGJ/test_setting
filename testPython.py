@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #add a name jango.G
-=======
-#1111111111111
->>>>>>> c49a7d2e71dbe5a619367ed26ee587205ed36a73
 template = """
 From: <{from_email}>
 To: <{to_email}>
