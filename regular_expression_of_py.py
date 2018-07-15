@@ -60,4 +60,4 @@ class Contact:
         return("{} {}".format(self.first, self.last))
 
 c = Contact("John", "Smith")
-json.dumps(c.__dict__)
+x=json.dumps(c.__dict__)
