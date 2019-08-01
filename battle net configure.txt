@@ -1,0 +1,9 @@
+C:\Users\Ad\AppData\Roaming\Battle.net
+
+"Client": {
+            "Language": "enUS",
+            "LoginSettings": {
+                "AllowedRegions": "CN;US;EU;KR",
+                "AllowedLocales": "zhCN;deDE;enGB;enUS;esMX;esES;frFR;itIT;plPL;ptBR;ruRU;koKR;zhTW"
+            }
+        },
