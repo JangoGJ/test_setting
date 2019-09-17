@@ -1,0 +1,1881 @@
+﻿# For documentation, see http://www.sumatrapdfreader.org/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+
+FixedPageUI [
+	TextColor = #ffffff
+	BackgroundColor = #000000
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = en
+ShowToolbar = true
+ShowFavorites = false
+AssociatedExtensions = .pdf
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = book view
+DefaultZoom = fit width
+WindowState = 2
+WindowPos = 375 205 1112 1440
+ShowToc = false
+SidebarDx = 274
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\jango\Downloads\(Vol. 432 No. 9160) The Economist - The Economist (September 14th 2019)-The Economist (2019).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 4
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\741.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.06633.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\789.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 77
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\Windows 中的鍵盤快速鍵 - Windows Help.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\pdfresizer.com-pdf-optimize.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 27
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\10.1038@s41598-019-48638-8.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 9
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\(Graduate Studies in Mathematics 115) Julio Gonzalez-Diaz, Ignacio Garcia-Jurado, M. Gloria Fiestras-Janeiro - An introductory course on mathematical game theory-American Mathematical Society (2010).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 95
+		PageNo = 16
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.02940.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\没看懂\1909.06963.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.06963.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 375 205 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.04231.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 95
+		PageNo = 14
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.06057.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 95
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\OneDrive\Need_Reading\2019年8月18日\(Graduate Studies in Mathematics 115) Julio Gonzalez-Diaz, Ignacio Garcia-Jurado, M. Gloria Fiestras-Janeiro - An Introductory Course on Mathematical Game Theory-American Mathematical Society (2010).djvu
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 78
+		PageNo = 10
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.02671.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 95
+		PageNo = 15
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\lu2019.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 80
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1909.01445.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 189
+		PageNo = 37
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1908.01714.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 165
+		PageNo = 20
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\1908.01669.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 120
+		PageNo = 31
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Political ecolog_省略_western academia_YUAN Chao_CHEN P_省略_rmal University.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 164
+		PageNo = 7
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\价值博弈对会展场馆经营决策的影响研究_孙杨.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 69
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Overview on Mult_省略_rcement Learning_DU Wei_DING Shi__省略_emy of Sciences.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 164
+		PageNo = 7
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Quantum Game The_省略_Technicalization_LAN Li_shan_LIU _省略_ersity of China.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 164
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Research Base of_省略_ication Strategy_Lu Xiaohua_Xinhu_省略_Science and Law.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 29
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\俄罗斯个人破产制度_理想与现实的博弈_廖冰清.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 188
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\国家情报信息共享的演化博弈分析_孙敏.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 27
+		PageNo = 8
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\亚马孙大火背后的博弈_彭桦.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 158
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\失控与掌控的博弈_白冬青.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 156
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\10.1038@s41586-019-1399-5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 113
+		PageNo = 13
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\english\10.3390@d11090157.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 164
+		PageNo = 13
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\10.3390@d11090157.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = true
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow_ Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2019).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 41
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = true
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\New folder\1909.01137.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 164
+		PageNo = 9
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\An Analysis Fram_省略_Operation Design_YANG Xue_sheng_H_省略_Ming_HUANG Qian.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 133
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\The Evaluation I_省略_nt Combat System_CHEN Xuan_ru_SHEN Jian_jing.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 130
+		PageNo = 7
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Õ½ÒÛ½á¹¹ÀíÂÛÓëÁªºÏÕ½ÒÛÊµÑé_ÒÁÉ½_ÁõÇí_»ÆÇ«.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 168
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\On Intelligence _省略_nal Intelligence_Zhao Bingfeng_Be_省略_sulting Co.Ltd..pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 164
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Intelligent Deci_省略_for UAV Swarming_XIONG Fei_WANG Hai.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 130
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Assessment of Fi_省略_on Network Model_CHEN Shi_tao_ZHANG Hai_lin.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 89
+		PageNo = 5
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\ÈçºÎ°ÑÎÕºÍÔË³ïÈ«ÃæÔ¤Ëã¹ÜÀíÌáÉýÆóÒµ¿ØÖÆÁ¦.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 89
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Intelligent Syst_省略_e Future Warfare_JIANG Ya_min.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 89
+		PageNo = 3
+		Zoom = 150
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Analysis on the _省略_em Confrontation_OU Jian_FU Dong.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 89
+		PageNo = 5
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Õ½ÂÔ¾öÕ½ÈËÐÄÏò±³×Ô¹Å¾öÊ¤Ö®µÀ½«Ë§ÆëÄ±ÖÕ³ÉÔË³ïÆæ¹¦.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\Opinions on the _Ê¡ÂÔ_ion of Wargaming_LI .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 75
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\应急设施选址问题研究综述_曹琦.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 123
+		PageNo = 14
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\运筹当下_决胜未来_迎接5G时代的海量连接_徐苏翔.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 130
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\A New Decision_m_省略_signment Problem_Hu Yongwen_Chen _省略_ctrical Vehicle.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 171
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\chinese\»ùÓÚ¹¥·À²©ÞÄµÄ¾üÊÂÐÅÏ¢ÍøÂç°²È«·çÏÕÆÀ¹À_ÍõÔö¹â_Â¬êÅ_Àîçô.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 143
+		PageNo = 7
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\Persuading Voters It’s Easy to Whisper, It’s Hard to Speak Loud.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 92
+		PageNo = 9
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\先秦兵家研究_李桂生.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 6
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 161
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 3
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\Infochain.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 95
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\(Student Mathematical Library) Matt Devos, Deborah A. Kent - Game Theory_ A Playful Introduction-American Mathematical Society (2016).pdf
+		Favorites [
+			[
+				Name = 6.3
+				PageNo = 140
+				PageLabel = 123
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 360
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\The Study of Mil_省略_n Military Force_曹静.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 107
+		PageNo = 119
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\The Study of Bin_省略_ Pre_Qin Dynasty_耿雪敏.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 231
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 281 221 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\1908.10620.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = true
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\Infochain.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\1908.10258.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\(Vol. 432 No. 9158) The Economist - The Economist (August 31st 2019)-The Economist (2019).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 15
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\TEAVAR.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\从孙武到孙膑_梁珂维.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 292
+		PageNo = 3
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\战场上的逆向思维_佚名.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 45
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\战略目标选择_战略优先方向与战略透支的可能性_叶海林.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\避实击虚之道_曲宝林.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 50
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\eaaw4621.full.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 544
+		PageNo = 10
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\10.1038@s41598-019-48016-4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 104
+		PageNo = 11
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 805 90 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\10.1126@sciadv.aau1156.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 80
+		PageNo = 7
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 805 90 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\USArmy-Outplayed.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\OneDrive\Need_Reading\2019年8月8日\美国学界对_灰色地带_挑战的认知_戴正.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 472
+		PageNo = 19
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\OneDrive\Need_Reading\2019年8月8日\囚徒困境中贴标签控制的促合作设计_董瑞.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 9
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\OneDrive\Need_Reading\2019年8月8日\博弈论下P2P借贷信用体系探讨_詹玥.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\1908.01669.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous book view
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\10.1038@s41586-019-1399-5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\print.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 724 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\Study on the Str_省略_he Pre_Qin Times_钟尉.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 202
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\Study on State A_省略_n Pre_Qin Period_王晓雪.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 152
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\strategy\Researching on P_省略_tegics_ Studying_解文超.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 248
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\(Vol. 432 No. 9156) The Economist - The Economist (August 17th 2019)-The Economist (2019).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 66
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 196 -16 1112 1453
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\_孙膑兵法_研究_邱义.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 67
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\_孙膑兵法_陈忌问道_篇校理_高友谦.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 6
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\孙膑兵法_月战_李兴斌.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\_孙膑兵法_军事学术价值探析_徐炳杰.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Downloads\(Graduate Studies in Mathematics 115) Julio Gonzalez-Diaz, Ignacio Garcia-Jurado, M. Gloria Fiestras-Janeiro - An Introductory Course on Mathematical Game Theory-American Mathematical Society (2010).djvu
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 13
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\Research on the _省略_ Yinque Mountain_王辉.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous book view
+		ScrollPos = -1 819
+		PageNo = 60
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\An Analysis of Y_省略_bin_s Art of War_陆继鹏.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 130
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\On the Political_省略_ Sun Bin Bing Fa_Wu Xianqing _Sch_省略__ 510420_ China.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 130
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\An Analysis of C_省略_space Governance_Lang Ping_Instit_省略_ Social Science.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 15
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\Strategic Overdr_省略_stern Han Empire_Wang Jianfeng_Sc_省略_ersity of China.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous book view
+		ScrollPos = -1 703
+		PageNo = 18
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\Research on the _省略_ecurity Strategy_Shi Peipei_Liu Y_省略_ates of America.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 23
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\Reflections of S_省略_hinese Diplomacy.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\jango\Desktop\straitegy\Military Strateg_省略_ational Conflict_Zhang Dunwei_Zho_省略_nkai University.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 -1
+		PageNo = 19
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1456 0 1112 1440
+		ShowToc = false
+		SidebarDx = 274
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 30764335 -1800787744
+OpenCountWeek = 454
+
+# Settings after this line have not been recognized by the current version
